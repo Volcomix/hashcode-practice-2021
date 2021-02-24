@@ -48,7 +48,7 @@ Formats all TypeScript files in the current directory and all sub-directories.
 ## Profiling your code
 
 1. Go in the `profiling` directory which contains a web application capable of running the solver web worker.
-2. Run `yarn start` in this directory which will open the web application in a new tab of you default web browser.
+2. Run `yarn start` in this directory which will open the web application in a new tab of your default web browser.
 3. You can then pick an input dataset file to start running a solver worker with this file.
 4. Display the browser console to see the console output (info and progress).
 5. Use the browser profiling development tools to analyse your code performance.
