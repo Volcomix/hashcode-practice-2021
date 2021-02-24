@@ -1,5 +1,8 @@
 {
   "name": "profiling",
+  "scripts": {
+    "start": "snowpack dev"
+  },
   "devDependencies": {
     "snowpack": "^3.0.13"
   }
