@@ -1,0 +1,6 @@
+{
+  "name": "profiling",
+  "devDependencies": {
+    "snowpack": "^3.0.13"
+  }
+}
